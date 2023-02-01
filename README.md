@@ -1,5 +1,5 @@
 # mern-stack-post-it-app
-Create and share your Post-Its (to-dos)! Built with the MERN Stack (contains register, login, CRUD and share functionality)
+Create and share your Post-Its (to-do's)! Built with the MERN Stack (contains register, login, CRUD and share functionality)
 
 
 
@@ -12,11 +12,11 @@ Create and share your Post-Its (to-dos)! Built with the MERN Stack (contains reg
 - npm install
 
 - npm run start
-Runs the app in the development mode.
+(Runs the app in the development mode.)
 
 - npm run build
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+(Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.)
 
 
 
