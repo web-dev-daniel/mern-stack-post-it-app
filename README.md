@@ -1,5 +1,5 @@
 # mern-stack-post-it-app
-Create and share your Post-Its (to-dos)! Build with the MERN Stack (contains register, login, CRUD and share functionality)
+Create and share your Post-Its (to-dos)! Built with the MERN Stack (contains register, login, CRUD and share functionality)
 
 
 
